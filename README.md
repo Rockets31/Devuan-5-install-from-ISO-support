@@ -8,6 +8,7 @@ Directly boot & install Devuan-5 from Official Devuan Installation Media using g
 
 # Usage
 Load provided 'scandev-daedalus.gz' along with the main 'initrd' of the installation media via grub loopback module.
+If you are using 'https://github.com/Mexit/MultiOS-USB', it is just a few steps:
 
 0. Use MultiOS-USB partition on 'exfat' or 'ext4' filesystem.
 1. Copy your Devuan-5-iso files to 'ISOs' directory.
