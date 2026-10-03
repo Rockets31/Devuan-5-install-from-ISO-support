@@ -3,7 +3,7 @@ Directly boot & install Devuan-5 from Official Devuan Installation Media using g
 
 # Features
 - Filesystems: exfat, ext4
-- Provide full debian boot menu
+- Provide devuan boot menu
 - Supported ISOs: Devuan-desktop, Devuan-netinst & Devuan-server of Devuan-5 release.
 
 # Usage
